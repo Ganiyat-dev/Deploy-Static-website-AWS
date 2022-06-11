@@ -1,4 +1,4 @@
-# Deploying a static website on AWS
+# Deploying a static website on AWS console
 
 
 ### This project successfully deployed a static website to AWS using S3, CloudFront, and IAM.
